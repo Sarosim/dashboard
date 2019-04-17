@@ -1,0 +1,22 @@
+.number-box {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    font-size: 28px;
+    color: #000;
+    padding: 5px;
+}
+.gender{
+    display: flex;
+    flex-direction: row;
+}
+
+.gender span {
+    padding-top: 6px;
+}
+.centre {
+    text-align: center; 
+}
+.centre {
+    display: inline-block; 
+}
